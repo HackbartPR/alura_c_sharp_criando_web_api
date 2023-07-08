@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Alura - Criando uma Web API.props" />
-</Project>
