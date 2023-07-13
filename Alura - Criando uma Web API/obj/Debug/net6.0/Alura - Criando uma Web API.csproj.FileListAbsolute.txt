@@ -30,3 +30,57 @@ C:\Users\carlos.hackbart\Documents\Estudos\Alura - Criando uma Web API\Alura - C
 C:\Users\carlos.hackbart\Documents\Estudos\Alura - Criando uma Web API\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.pdb
 C:\Users\carlos.hackbart\Documents\Estudos\Alura - Criando uma Web API\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.genruntimeconfig.cache
 C:\Users\carlos.hackbart\Documents\Estudos\Alura - Criando uma Web API\Alura - Criando uma Web API\obj\Debug\net6.0\ref\Alura - Criando uma Web API.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\appsettings.json
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Alura - Criando uma Web API.exe
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Alura - Criando uma Web API.deps.json
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Alura - Criando uma Web API.runtimeconfig.json
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Alura - Criando uma Web API.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Alura - Criando uma Web API.pdb
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.csproj.AssemblyReference.cache
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.AssemblyInfoInputs.cache
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.AssemblyInfo.cs
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.csproj.CoreCompileInputs.cache
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\staticwebassets\msbuild.Alura - Criando uma Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\staticwebassets\msbuild.build.Alura - Criando uma Web API.props
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alura - Criando uma Web API.props
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alura - Criando uma Web API.props
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\scopedcss\bundle\Alura - Criando uma Web API.styles.css
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.csproj.CopyComplete
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\refint\Alura - Criando uma Web API.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.pdb
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\Alura - Criando uma Web API.genruntimeconfig.cache
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\obj\Debug\net6.0\ref\Alura - Criando uma Web API.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
