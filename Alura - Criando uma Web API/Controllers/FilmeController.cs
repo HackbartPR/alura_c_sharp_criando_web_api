@@ -2,6 +2,7 @@
 using Alura___Criando_uma_Web_API.Data.DTOs;
 using Alura___Criando_uma_Web_API.Models;
 using AutoMapper;
+using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Alura___Criando_uma_Web_API.Controllers;
@@ -20,7 +21,7 @@ public class FilmeController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult AdicionarFilme([FromBody] CreateFilmeDto filmeDTO)
+    public IActionResult AdicionarFilme([FromBody] FilmeDto filmeDTO)
     {
         Filme filme = _mapper.Map<Filme>(filmeDTO);
         _context.Filmes.Add(filme);
@@ -43,5 +44,41 @@ public class FilmeController : ControllerBase
             return NotFound();
         
         return Ok(filme);        
+    }
+
+    [HttpPut("{id}")]
+    public IActionResult AtualizarFilme(int id, FilmeDto filmeDto)
+    {
+        Filme? filme = _context.Filmes.FirstOrDefault(filme => filme.Id == id);
+
+        if (filme == null) 
+            return NotFound();
+
+        _mapper.Map(filmeDto, filme);
+        _context.SaveChanges();
+
+        return NoContent();
+    }
+
+    [HttpPatch("{id}")]
+    public IActionResult AtualizarFilmeParcialmente(int id, [FromBody] JsonPatchDocument<FilmeDto> patch)
+    {
+        Filme? filme = _context.Filmes.FirstOrDefault(filme=>filme.Id == id);
+
+        if (filme == null)
+            return NotFound();
+
+        FilmeDto filmeDto = _mapper.Map<FilmeDto>(filme);
+        patch.ApplyTo(filmeDto, ModelState);
+
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+
+        _mapper.Map(filmeDto, filme);
+        _context.SaveChanges();
+
+        return NoContent();
     }
 }

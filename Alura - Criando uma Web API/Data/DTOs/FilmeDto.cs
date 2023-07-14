@@ -2,7 +2,7 @@
 
 namespace Alura___Criando_uma_Web_API.Data.DTOs
 {
-    public class CreateFilmeDto
+    public class FilmeDto
     {
         [Required(ErrorMessage = "O campo Título não pode ser nulo")]
         [StringLength(100, ErrorMessage = "Tamanho máximo do campo Título é de 50 caracteres")]

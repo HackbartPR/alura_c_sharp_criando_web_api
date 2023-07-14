@@ -8,6 +8,6 @@ public class FilmeProfile : Profile
 {
     public FilmeProfile() 
     {
-        CreateMap<Filme,CreateFilmeDto>().ReverseMap();
+        CreateMap<Filme,FilmeDto>().ReverseMap();
     }
 }
