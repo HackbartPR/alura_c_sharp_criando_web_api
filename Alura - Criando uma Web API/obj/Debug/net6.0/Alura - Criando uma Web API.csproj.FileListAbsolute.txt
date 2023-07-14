@@ -84,3 +84,5 @@ C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura -
 C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\System.Text.Json.dll
 C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\guil_\OneDrive\Documentos\Estudos\alura_c_sharp_criando_web_api\Alura - Criando uma Web API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

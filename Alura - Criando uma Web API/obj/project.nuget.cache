@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bQvzTfJDCdb8grHVvAKILO/Bb8I38jJoVFyMGdBKSYK8mE6bKHRzDEfIztr2yknplQ2iVizhipN68UqfvI6Xxg==",
+  "dgSpecHash": "cdJXV9Y9PnU/GaZEPB66KGgxaMRqgggJ+AcXEtNFHXHjtxAqgvm54ctGzQ5foX6lsjsf/rNK0/UKJ5rskhdGVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\guil_\\OneDrive\\Documentos\\Estudos\\alura_c_sharp_criando_web_api\\Alura - Criando uma Web API\\Alura - Criando uma Web API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\guil_\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\guil_\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\guil_\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\guil_\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\guil_\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
     "C:\\Users\\guil_\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.9\\microsoft.entityframeworkcore.abstractions.7.0.9.nupkg.sha512",
     "C:\\Users\\guil_\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",

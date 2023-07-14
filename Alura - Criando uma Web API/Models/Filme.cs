@@ -3,7 +3,9 @@
 namespace Alura___Criando_uma_Web_API.Models;
 
 public class Filme
-{    
+{
+    [Key]
+    [Required]
     public int Id { get; set; }
 
     [Required (ErrorMessage = "O campo Título não pode ser nulo")]

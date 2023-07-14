@@ -1,5 +1,7 @@
 ﻿using Alura___Criando_uma_Web_API.Data;
+using Alura___Criando_uma_Web_API.Data.DTOs;
 using Alura___Criando_uma_Web_API.Models;
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Alura___Criando_uma_Web_API.Controllers;
@@ -9,15 +11,18 @@ namespace Alura___Criando_uma_Web_API.Controllers;
 public class FilmeController : ControllerBase
 {
     private readonly FilmeContext _context;
+    private readonly IMapper _mapper;
 
-    public FilmeController(FilmeContext context) 
+    public FilmeController(FilmeContext context, IMapper mapper)
     {
         _context = context;
+        _mapper = mapper;
     }
 
     [HttpPost]
-    public IActionResult AdicionarFilme([FromBody] Filme filme)
+    public IActionResult AdicionarFilme([FromBody] CreateFilmeDto filmeDTO)
     {
+        Filme filme = _mapper.Map<Filme>(filmeDTO);
         _context.Filmes.Add(filme);
         _context.SaveChanges();
 
